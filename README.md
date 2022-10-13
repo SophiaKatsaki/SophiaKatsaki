@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning in my semester: **Neural Networks, Data Mining, Knowledge-based systems, HTML, PHP and CSS and more...**
 
 - 📫 My university e-mail: **skatsaks@csd.auth.gr**
-- My personal e-mail: **katsakisophia58@gmail.com**
+     ...and my personal e-mail: **katsakisophia58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
