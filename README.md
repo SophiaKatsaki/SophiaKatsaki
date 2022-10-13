@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sophia Katsaki</h1>
 <h3 align="center">a computer science undergraduate student at Aristotle University of Thessaloniki!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophiakatsaki" alt="sophiakatsaki" /></a> </p>
+- 🌱 I’m currently learning **Neural Networks, Data Mining, Knowledge-based systems, HTML, PHP and CSS**
 
-- 🌱 I’m currently learning **Neural Networks, Data Mining, Knowledge-based systems andVLE's**
-
-- 📫 How to reach me **skatsaks@csd.auth.gr**
+- 📫 My university e-mail: **skatsaks@csd.auth.gr**
+- My personal e-mail: **katsakisophia58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
