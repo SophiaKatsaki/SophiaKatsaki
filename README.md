@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sophia Katsaki</h1>
 <h3 align="center">a computer science undergraduate student at Aristotle University of Thessaloniki!</h3>
 
-- 🌱 I’m currently learning: **Neural Networks, Data Mining, Knowledge-based systems, HTML, PHP and CSS**
+- 🌱 I’m currently learning in my semester: **Neural Networks, Data Mining, Knowledge-based systems, HTML, PHP and CSS and more...**
 
 - 📫 My university e-mail: **skatsaks@csd.auth.gr**
 - My personal e-mail: **katsakisophia58@gmail.com**
