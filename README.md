@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sophia Katsaki</h1>
 <h3 align="center">a computer science undergraduate student at Aristotle University of Thessaloniki!</h3>
 
-- 👨‍💻 All of my projects are available at [my github page](my github page)
 
 - 📫 How to reach me **skatsaks@csd.auth.gr**
 
